@@ -19,7 +19,7 @@ If you don't see the theme in the list, reload the page with `Ctrl + F5`. (This 
 
 ## Preview
 
-
+Galaxy Theme:
 ![GalaxyTheme](https://github.com/light2k4/PufferPanel-themes/blob/master/img/galaxytheme.png?raw=true)
 
 
