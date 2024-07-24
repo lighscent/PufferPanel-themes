@@ -21,7 +21,7 @@ If you don't see the theme in the list, reload the page with `Ctrl + F5`. (This 
 
 
 ```markdown
-![GalaxyTheme](img/galaxytheme.png)
+![GalaxyTheme](/img/galaxytheme.png)
 ```
 
 
