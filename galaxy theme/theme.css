@@ -1,0 +1,36 @@
+.theme--dark.v-navigation-drawer {
+    background-color: #2c0028;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.v-sheet.v-list:not(.v-sheet--outlined) {
+    border-radius: 30px;
+}
+.v-toolbar__content, .v-toolbar__extension {
+    background-color: #1f0015;
+}
+.v-menu__content {
+    border-radius: 30px;
+}
+.v-sheet.v-card:not(.v-sheet--outlined) {
+        border-radius: 20px;
+    }
+.console {
+    border-radius: 10px;
+}
+.v-bottom-navigation {
+    background-color: #1f0015 !important;
+    box-shadow: 0px 0px 0px 0px !important;
+}
+.v-btn:not(.v-btn--round).v-size--default {
+    border-radius: 10px;
+}
+.v-btn:not(.v-btn--round).v-size--large {
+    border-radius: 10px;
+}
+.py-2 {
+    border-radius: 20px;
+}
+.v-data-table {
+    border-radius: 20px;
+}
